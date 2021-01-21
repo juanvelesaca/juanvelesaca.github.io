@@ -1,0 +1,17 @@
+body {
+  background-color: darkseagreen;
+}
+
+h1 {
+  font-family: tahoma, sans-serif;
+  color: darkslategrey;
+text-align: center;
+
+}
+p{
+  font-family: Garamond, serif;
+  font-size: 20px;
+}
+h2 {
+  color: white;
+}
